@@ -1,0 +1,5 @@
+﻿Transaction,Bread,Cereal,Jam,Milk
+T1,1,1,0,0
+T2,1,1,1,0
+T3,1,0,0,1
+T4,0,1,1,1
