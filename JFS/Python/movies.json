@@ -1,0 +1,154 @@
+[
+{
+	"title": "Once Upon a Time in the West",
+	"year" : 1999,
+	"released": "1968-09-01",
+	"rated": {
+				"rateID": "PG-13",
+				"rated": "Parents Strongly Cautioned"
+			 },
+	"type": "movie",
+	"genre": ["Western"],
+	"country": "USA",
+	"languages": ["English","Italian","Spain"],
+	"plot": "Epic story of a mysterious stranger with a harmonica",
+	"runtime": 175,
+	"director" : "Sergio Leone",
+	"actors": ["Claudia Cardinale","Henry Fonda","Jason Robards","Charles Bronson"],
+	"awards": {
+				"wins": 4,
+				"nominations": 5
+			  },
+	"imdb": {
+				"rating": 8.6,
+				"votes": 201283
+			}
+},
+{
+	"title": "A Million Ways to Die in the West",
+	"year" : 2014,
+	"released": "2014-05-30",
+	"rated": {
+				"rateID": "R",
+				"rated": "Restricted"
+			 },
+	"type": "movie",
+	"genre": ["Comedy","Western"],
+	"country": "USA",
+	"languages": ["English","Chinese"],
+	"plot": "As a cowardly farmer begins to fall for the mysterious new woman",
+	"runtime": 116,
+	"director" : "Seth MacFarlane",
+	"actors": ["Seth MacFarlane","Charlize Theron","Amanda Seyfried","Liam Neeson"],
+	"awards": {
+				"wins": 0,
+				"nominations": 6
+			  },
+	"imdb": {
+				"rating": 6.1,
+				"votes": 126592
+			}
+},
+{
+	"title": "West Side Story",
+	"year" : 1957,
+	"released": "1957-09-26",
+	"rated": {
+				"rateID": "NR",
+				"rated": "Not Rated"
+			 },
+	"type": "movie",
+	"genre": ["Drama","Crime","Musicals"],
+	"country": "USA",
+	"languages": ["English"],
+	"plot": "Two youngsters from rival New York City gangs fall in love",
+	"runtime": 152,
+	"director" : "Jerome Robbins",
+	"actors": ["Natalie Wood","Richard Beymer","Russ Tamblyn","Rita Moreno"],
+	"awards": {
+				"wins": 18,
+				"nominations": 11
+			  },
+	"imdb": {
+				"rating": 736,
+				"votes": 67824
+			}
+},
+{
+	"title": "Slow West",
+	"year" : 2015,
+	"released": "2015-06-26",
+	"rated": {
+				"rateID": "R",
+				"rated": "Restricted"
+			 },
+	"type": "movie",
+	"genre": ["Action","Thriller","Western"],
+	"country": "UK",
+	"languages": ["English","French"],
+	"plot": "A young Scottish man travels across America in pursuit of the woman he loves",
+	"runtime": 84,
+	"director" : "John Maclean",
+	"actors": ["Kodi Smit-McPhee","Michael Fassbender","Ben Mendelsohn","Aorere Paki"],
+	"awards": {
+				"wins": 2,
+				"nominations": 9
+			  },
+	"imdb": {
+				"rating": 7,
+				"votes": 19101
+			}
+},
+{
+	"title": "An American Tail: Fievel Goes West",
+	"year" : 1991,
+	"released": "1991-11-22",
+	"rated": {
+				"rateID": "G",
+				"rated": "General Audiences"
+			 },
+	"type": "movie",
+	"genre": ["Adventure","Family","Animation"],
+	"country": "USA",
+	"languages": ["English"],
+	"plot": "A family of Emigre mice decide to move out to the west",
+	"runtime": 75,
+	"director" : "Simon Wells",
+	"actors": ["Flint Dille","Charles Swenson","David Kirschner"],
+	"awards": {
+				"wins": 0,
+				"nominations": 0
+			  },
+	"imdb": {
+				"rating": 6.4,
+				"votes": 16013
+			}
+},
+{
+	"title": "Red Rock West",
+	"year" : 1994,
+	"released": "1994-08-04",
+	"rated": {
+				"rateID": "R",
+				"rated": "Restricted"
+			 },
+	"type": "movie",
+	"genre": ["Drama","Thriller","Crime"],
+	"country": "USA",
+	"languages": ["English"],
+	"plot": "When a promised job for Texan Michael fails to materialise in Wyoming",
+	"runtime": 98,
+	"director" : "John Dahl",
+	"actors": ["Nicolas Cage","Dennis Hopper","Lara Flynn Boyle","J.T. Walsh"],
+	"awards": {
+				"wins": 0,
+				"nominations": 3
+			  },
+	"imdb": {
+				"rating": 7,
+				"votes": 15007
+			}
+}
+]
+
+
