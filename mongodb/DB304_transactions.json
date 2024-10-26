@@ -1,0 +1,114 @@
+[
+{
+  "transactionID": "TXN-20231025-002",
+  "customerID": "CUST-12345",
+  "date": ISODate("2023-10-25"),
+  "items": [
+    {"itemID": "ITEM-003", "name": "Apple iPhone 14 Pro", "quantity": 1, "price": 999.99},
+    {"itemID": "ITEM-004", "name": "Bose QuietComfort Earbuds", "quantity": 2, "price": 299.99}
+  ],
+  "total": 1599.97,
+  "paymethod":"card"
+},
+{
+  "transactionID": "TXN-20231025-003",
+  "customerID": "CUST-67890",
+  "date": ISODate("2023-10-25"),
+  "items": [
+    {"itemID": "ITEM-005", "name": "Samsung Galaxy S23 Ultra", "quantity": 1, "price": 1199.99},
+    {"itemID": "ITEM-006", "name": "Sony PlayStation 5", "quantity": 1, "price": 499.99}
+  ],
+  "total": 1699.98
+},
+{
+  "transactionID": "TXN-20231026-004",
+  "customerID": "CUST-12345",
+  "date": ISODate("2023-10-26"),
+  "items": [
+    {"itemID": "ITEM-007", "name": "Bose Ultra Open Earbuds True Wireless", "quantity": 2, "price": 129.99}
+  ],
+  "total": 259.98,
+  "paymethod":"cash"
+},
+{
+  "transactionID": "TXN-20231027-005",
+  "customerID": "CUST-67890",
+  "date": ISODate("2023-10-27"),
+  "items": [
+    {"itemID": "ITEM-008", "name": "Dell XPS 13 Laptop", "quantity": 1, "price": 1299.99}
+  ],
+  "total": 1299.99,
+  "paymethod":"cash"
+},
+{
+  "transactionID": "TXN-20231028-006",
+  "customerID": "CUST-45678",
+  "date": "2023-10-28",
+  "items": [
+    {"itemID": "ITEM-009", "name": "Nintendo Switch OLED", "quantity": 1, "price": 349.99}
+  ],
+  "total": 349.99,
+  "paymethod":"card"
+},
+{
+  "transactionID": "TXN-20231029-007",
+  "customerID": "CUST-98765",
+  "date": ISODate("2023-10-29"),
+  "items": [
+    {"itemID": "ITEM-010", "name": "Apple Watch Series 8", "quantity": 1, "price": 399.99}
+  ],
+  "total": 399.99,
+  "paymethod":"card"
+},
+{
+  "transactionID": "TXN-20231104-008",
+  "customerID": "CUST-67890",
+  "date": ISODate("2023-11-04"),
+  "items": [
+    {"itemID": "ITEM-011", "name": "Sony PlayStation 5 DualSense Controller", "quantity": 1, "price": 69.99},
+    {"itemID": "ITEM-012", "name": "Xbox Series X Wireless Controller", "quantity": 2, "price": 59.99}
+  ],
+  "total": 189.97,
+  "paymethod":"cash"
+},
+{
+  "transactionID": "TXN-20231031-009",
+  "customerID": "CUST-67890",
+  "date": ISODate("2023-10-31"),
+  "items": [
+    {"itemID": "ITEM-013", "name": "Samsung Galaxy Tab S9 Ultra", "quantity": 1, "price": 1199.99}
+  ],
+  "total": 1199.99
+},
+{
+  "transactionID": "TXN-20231101-010",
+  "customerID": "CUST-45678",
+  "date": ISODate("2023-11-01"),
+  "items": [
+    {"itemID": "ITEM-014", "name": "Microsoft Surface Laptop Studio", "quantity": 1, "price": 1599.99}
+  ],
+  "total": 1599.99,
+  "paymethod":"card"
+},
+{
+  "transactionID": "TXN-20231102-011",
+  "customerID": "CUST-98765",
+  "date": ISODate("2023-11-02"),
+  "items": [
+    {"itemID": "ITEM-015", "name": "Canon EOS R5 Camera", "quantity": 1, "price": 3999.99}
+  ],
+  "total": 3999.99,
+  "paymethod":"card"
+},
+{
+  "transactionID": "TXN-20231105-012",
+  "customerID": "CUST-12345",
+  "date": ISODate("2023-11-05"),
+  "items": [
+    {"itemID": "ITEM-016", "name": "Apple Pencil (2nd generation)", "quantity": 2, "price": 129.99},
+    {"itemID": "ITEM-017", "name": "iPad Air (5th generation)", "quantity": 4, "price": 599.99}
+  ],
+  "total": 2649.96,
+  "paymethod":"card"
+}
+]
